@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	"launchpad.net/gommap"
+	"github.com/tysontate/gommap"
 )
 
 var (
